@@ -4,6 +4,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-red.svg)](https://pytorch.org/)
 
+### Paper Links:
+- **arXiv**: [https://arxiv.org/pdf/2507.12687](https://arxiv.org/pdf/2507.12687)
+- **IEEE Xplore**: [https://ieeexplore.ieee.org/abstract/document/11084443](https://ieeexplore.ieee.org/abstract/document/11084443)
+
 TRIQA combines content-aware and quality-aware features from ConvNeXt models to predict image quality scores on a 1-5 scale.
 
 ## Quick Start
@@ -44,8 +48,8 @@ Download the required model files from Google Drive and place them in the approp
 - `Regression_Models/KonIQ_scaler.save` - Feature scaler
 - `Regression_Models/KonIQ_TRIQA.save` - Regression model (111MB)
 
-### Google Drive Links:
-- [Download Model Files](https://drive.google.com/your-link-here) - Place in `feature_models/` and `Regression_Models/` directories
+### Box Links:
+- [Download Model Files](https://utexas.box.com/s/8aw6axc2lofouja65uc726lca8b1cduf) - Place in `feature_models/` and `Regression_Models/` directories
 
 ## How It Works
 
@@ -62,9 +66,25 @@ Download the required model files from Google Drive and place them in the approp
 - `feature_models/` - Pre-trained weights
 - `Regression_Models/` - Regression models
 
+## Citation
+
+If you use this code in your research, please cite our paper:
+
+```bibtex
+@INPROCEEDINGS{11084443,
+  author={Sureddi, Rajesh and Zadtootaghaj, Saman and Barman, Nabajeet and Bovik, Alan C.},
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Triqa: Image Quality Assessment by Contrastive Pretraining on Ordered Distortion Triplets}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1744-1749},
+  keywords={Image quality;Training;Deep learning;Contrastive learning;Predictive models;Feature extraction;Distortion;Data models;Synthetic data;Image Quality Assessment;Contrastive Learning},
+  doi={10.1109/ICIP55913.2025.11084443}}
+```
+
+
+
 ## License
 
 MIT License
-=======
-# TRIQA Coming Soon
->>>>>>> 23627d3f2e6b8ac348f23aa4747288ce12b2b1f6
