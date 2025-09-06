@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# TRIQA: Image Quality Assessment
+
+# TRIQA: IMAGE QUALITY ASSESSMENT BY CONTRASTIVE PRETRAINING ON ORDERED DISTORTION TRIPLETS
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-red.svg)](https://pytorch.org/)
