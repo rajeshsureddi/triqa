@@ -8,6 +8,8 @@
 - **arXiv**: [https://arxiv.org/pdf/2507.12687](https://arxiv.org/pdf/2507.12687)
 - **IEEE Xplore**: [https://ieeexplore.ieee.org/abstract/document/11084443](https://ieeexplore.ieee.org/abstract/document/11084443)
 
+### Hugging Face Demo: [https://huggingface.co/spaces/S-Rajesh/triqa-iqa]
+
 TRIQA combines content-aware and quality-aware features from ConvNeXt models to predict image quality scores on a 1-5 scale.
 
 ## Quick Start
