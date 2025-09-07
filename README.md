@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-red.svg)](https://pytorch.org/)
 
-### Paper Links:
+### 🌟 **ICIP 2025 Spotlight** (Double-blind):
 - **arXiv**: [https://arxiv.org/pdf/2507.12687](https://arxiv.org/pdf/2507.12687)
 - **IEEE Xplore**: [https://ieeexplore.ieee.org/abstract/document/11084443](https://ieeexplore.ieee.org/abstract/document/11084443)
 
@@ -42,7 +42,7 @@ print(f"Quality: {score:.2f}/5.0")
 
 ## Model Files
 
-Download the required model files from Google Drive and place them in the appropriate directories:
+Download the required model files from Drive and place them in the appropriate directories:
 
 ### Required Files:
 - `feature_models/convnext_tiny_22k_224.pth` - Content-aware model (170MB)
